@@ -15,4 +15,4 @@ function main() {
     }
 }
 // 15 - chamamos a função main para ser executada
-main()
+main() 

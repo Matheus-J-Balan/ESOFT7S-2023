@@ -13,7 +13,7 @@ class App {
 
     // 4 - Criamos um método construtor
     public constructor() {
-        // 5 - instanciamos o express dentro da propriedade express
+        // 5 - instanciamos o express dentro da propriedade  express
         // para que quem chame a propriedade express, não precisse instancialo novamente
         // e nem precise usar a sintaxe "aplicacao.express".funcaoDoExpressQueQueroUsar
         this.express = express()

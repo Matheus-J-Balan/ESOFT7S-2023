@@ -13,3 +13,4 @@ const UserSchema = new Schema({
 
 // 34 exportando UserSchema como uma Model que se chama User
 export default model('User', UserSchema)
+  
